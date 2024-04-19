@@ -1,4 +1,4 @@
-![MasterHead](https://t4.ftcdn.net/jpg/04/92/06/53/360_F_492065380_eSlHdkdNBy6ArNkk5gV0Lme1qhvTosSI.jpg)
+![MasterHead](https://i.pinimg.com/originals/68/34/42/683442a19d0cacd77b3a61ad3a728067.jpg)
 <h1 align="center">Hi 👋, I'm Akmal Muhamad Kamil</h1>
 <h3 align="center">A young programmer who can make money</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif">
