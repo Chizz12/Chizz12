@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel, React, LiveWire,Inertia**
 
-- 👨‍💻 All of my projects are available at [www.portfolio.com](www.portfolio.com)
+- 👨‍💻 All of my projects are available at [MyPortfolio](https://my.portfolio.chizz.masuk.id/)
 
 - 💬 Ask me about **Javascript,PHP**
 
