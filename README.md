@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **BBPPMPV BMTI**
 
-- 🌱 I’m currently learning **Laravel, React, LiveWire,Inertia**
+- 🌱 I’m currently learning **Laravel, React, LiveWire,Inertia, Golang**
 
 - 👨‍💻 All of my projects are available at [MyPortfolio](https://my.portfolio.chizz.masuk.id/)
 
-- 💬 Ask me about **Javascript,PHP**
+- 💬 Ask me about **Javascript,PHP, Go**
 
 - 📫 How to reach me **akmalmkamil12@gmail.com**
 
